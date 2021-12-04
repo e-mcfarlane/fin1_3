@@ -19,7 +19,7 @@ Apple Pay's strenghts are its flexibility and the technology used to support its
 One of the main weaknesses of Apple Pay is the limisted support for online purchases.  To use Apply Pay On-line, a user needs to use Safari web browser on a Mac, iPhone or iPad (1) and Mac only represents approximately 15% of the OS market share (2). With such a low market share for personal computers it will be difficult for Apple to maintain growth and competitveness, however, that may be somewhat offset by the fact that more and more purchases are being made via phone, where Apple has a much greater market share (3).
 Another weakness of Apple Pay is its acceptance.  Currently Apple Pay is only available at 85% of retailers in the US (1), due to the special technology reader required for its use and its availablity is even more restricted internationally (4), but as with the first point, this conern may be reduced over time due to increasing proliferation of technology around the globe.
 
-
+The prognosis for this company is mixed. One the one hand there is much room for growth with its potential markets not having been fully exploited. However, there are still challenges for the product, including technology requirements for use and fee structure for use of the product causing retalier rejectance. 
 
 Sources:
 
